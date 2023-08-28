@@ -1,0 +1,1 @@
+INSERT INTO `trip` (`sno`, `name`, `age`, `gender`, `email`, `phone`, `other`, `date`) VALUES ('0', 'test name', '21', 'Male', 'test@gmail.com', '3434543456', 'test description', current_timestamp());
